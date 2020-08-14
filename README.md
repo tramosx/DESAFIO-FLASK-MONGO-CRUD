@@ -18,13 +18,18 @@ python3 -m venv venv
 Para ativar o venv:
 
 - Windows
+
 ```
 venv\Scripts\activate,
 ```
 - Mac/Linux
+
 ```
 source venv/bin/activate
 
+```
 Instale as dependências do projeto com pip3:
+
 ```
 pip3 install -r requirements.txt
+```

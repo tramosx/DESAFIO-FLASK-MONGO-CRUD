@@ -33,3 +33,16 @@ Instale as dependências do projeto com pip3:
 ```
 pip3 install -r requirements.txt
 ```
+Para executar:
+
+```
+python3 app.py
+```
+
+
+
+# Exemplos postman
+![](/imgs/lista_noticias.png)
+![](/imgs/cadastrar.png)
+![](/imgs/editar.png)
+![](/imgs/delete.png)
